@@ -27,6 +27,7 @@
 		E21F1C2E27822E93006D0A0A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		E21F1C3527822EC9006D0A0A /* 1l_ВикторРоманов.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1l_ВикторРоманов.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E21F1C3627823292006D0A0A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		E269ED072782729B0073AF20 /* 1les_РомановВиктор.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1les_РомановВиктор.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		E21F1C2D27822E93006D0A0A /* LessonOneGB */ = {
 			isa = PBXGroup;
 			children = (
+				E269ED072782729B0073AF20 /* 1les_РомановВиктор.playground */,
 				E21F1C3527822EC9006D0A0A /* 1l_ВикторРоманов.playground */,
 				E21F1C2E27822E93006D0A0A /* main.swift */,
 			);
