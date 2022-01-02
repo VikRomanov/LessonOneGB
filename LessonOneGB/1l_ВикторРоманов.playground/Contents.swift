@@ -4,7 +4,7 @@ import Cocoa
 
 let a: Double = 15
 let b: Double = -25
-let c: Double = 7 // коэффициенты и свободный член
+let c: Double = 7 // коэффициенты и свободный член уравнения
 
 var discriminant = b * b - 4 * a * c
 
